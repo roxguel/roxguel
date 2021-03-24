@@ -2,7 +2,7 @@
 - 👀 I’m interested in the live
 - 🌱 I’m currently learning Xamarin.Forms & Python 3
 - 💞️ I’m looking to collaborate on Open Source projects
-- 📫 Contact me through Twitter as @Roxguel
+- 📫 Contact me through Twitter as [@Roxguel](https://www.twitter.com/roxguel)
 
 <!---
 roxguel/roxguel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
